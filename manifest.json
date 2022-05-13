@@ -1,0 +1,6 @@
+{
+    "name": "Soundboard",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "/"
+  }
